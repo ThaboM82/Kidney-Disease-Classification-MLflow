@@ -1,8 +1,5 @@
 # Kidney-Disease-Classification-MLflow
 
-# Kidney-Disease-Classification-MLflow-DVC
-
-
 ## Workflows
 
 1. Update config.yaml
