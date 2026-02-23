@@ -1,0 +1,21 @@
+Metadata-Version: 2.4
+Name: cnnClassifier
+Version: 0.0.0
+Summary: python package for CNN app
+Home-page: https://github.com/ThaboM82/Kidney-Disease-Classification-MLflow
+Author: ThaboM82
+Author-email: thabo.math@icloud.com
+Project-URL: Bug Tracker, https://github.com/ThaboM82/Kidney-Disease-Classification-MLflow/issues
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary
+
+# Kidney-Disease-Classification-MLflow
+
+
+
+
+
